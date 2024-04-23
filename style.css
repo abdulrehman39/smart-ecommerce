@@ -12101,6 +12101,7 @@ input:focus {
     position: absolute;
     top: 0;
     width: 100%;
+    height: max-content;
     background: #fff;
     z-index: 1;
     display: block;
