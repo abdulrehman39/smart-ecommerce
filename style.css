@@ -17492,12 +17492,12 @@ body.active-search .wbSearch {
 }
 #scroll {
   position: fixed;
-  bottom: 40px;
-  right: 20px;
+  bottom: 56px;
+  right: 18px;
   cursor: pointer;
   z-index: 2;
-  min-width: 40px;
-  min-height: 40px;
+  min-width: 30px;
+  min-height: 30px;
   -ms-flex-align: center;
   align-items: center;
   -ms-flex-pack: center;
@@ -17516,8 +17516,8 @@ body.active-search .wbSearch {
 }
 #progress-value {
   display: block;
-  min-width: 40px;
-  min-height: 40px;
+  min-width: 30px;
+  min-height: 30px;
   background-color: #000000;
   display: -ms-grid;
   display: grid;
@@ -17529,9 +17529,9 @@ body.active-search .wbSearch {
   stroke: #fff;
   transform: rotate(-90deg);
   position: absolute;
-  left: 20px;
+  left: 15.5px;
   right: 0;
-  top: 10px;
+  top: 7px;
 }
 .foot_store_icons {
   margin-top: 30px;
