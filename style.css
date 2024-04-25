@@ -17045,7 +17045,8 @@ body.active-search .wbSearch {
 .header-logo-image {
   display: block;
   margin: 0 auto;
-  max-height: 26px;
+  max-height: 36px;
+  max-width: 122px;
 }
 .header .row {
   -ms-flex-align: center;
